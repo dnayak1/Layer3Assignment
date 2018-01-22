@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "828777785791",
+    "firebase_url": "https://layer3-26f2d.firebaseio.com",
+    "project_id": "layer3-26f2d",
+    "storage_bucket": "layer3-26f2d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:828777785791:android:af7c845b3563ab33",
+        "android_client_info": {
+          "package_name": "dhirajnayak.com.layer3assignment"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "828777785791-slpvbafp4c0qf0urilkghojmeo3ni1ot.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCKahr9Sm1TyLBT5PqBaefFRj6a83qXbtA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
